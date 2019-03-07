@@ -4,5 +4,5 @@ This is a POC for the Intellidesk Reporting Dashboard. This Dashboard will be us
 
 ## Technology Used 
 
-Microservice for fetching the Report of Conversations and their Rating.
-Google Charts, Tabulator, Bootstrap, JQuery, HTML.
+- Microservice for fetching the Report of Conversations and their Rating.
+- Google Charts, Tabulator, Bootstrap, JQuery, HTML.
